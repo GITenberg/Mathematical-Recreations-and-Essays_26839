@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32266
     wikipedia: http://en.wikipedia.org/wiki/W._W._Rouse_Ball
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26839#Mathematical-Recreations-and-Essays
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2008-10-08'
 gutenberg_type: Text
